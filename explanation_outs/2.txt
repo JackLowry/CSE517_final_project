@@ -1,0 +1,2 @@
+Honey, can you close the door? I'm in a meeting.
+<pad> The person outside is having  a hard time finding the person inside ,  mainly because the other person is in  a meeting and doesn ' t want to be disturbed . It ' s funny to think of  a normal way for someone to interact with their outside world , but , as this person  argues , it ' s impossible to just close the door because they are outside in  a meeting room . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>

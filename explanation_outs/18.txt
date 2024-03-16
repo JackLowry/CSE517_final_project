@@ -1,0 +1,2 @@
+The judge ordered a short recess.
+<pad> A joke about children riding slides in public places  ---  a judge once ordered that school dismiss all but two students for not obey ing  a court order . In this case , the judge ' s order is literal , as the child is on the slide and not looking at the teacher , who apparently doesn ' t see the relevance of the sentence . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>

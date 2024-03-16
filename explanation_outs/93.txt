@@ -1,0 +1,2 @@
+Let me know when the paint is dry.
+<pad> The person is painting his office , and is  displaying his work as  a " pai n t job ". But the paint job is n ' t finished yet , so the next step is to simply apply the paint to the wall , which takes  a while . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
